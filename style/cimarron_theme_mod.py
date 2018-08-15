@@ -11,9 +11,9 @@ def cimarron_theme():
     markColor = "#282828"
     axisColor = "#282828"
     backgroundColor = "#FFFAFA"
-    font = "Ubuntu"
-    labelfont = "Ubuntu Condensed"
-    sourcefont = "Ubuntu Mono"
+    font = "Helvetica"
+    labelfont = "Helvetica "
+    sourcefont = "Helvetica"
     gridColor = "#C9C9C9"
     return {
         "width": 1080,
