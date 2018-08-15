@@ -180,8 +180,8 @@ def cimarron_theme():
            },
            "title":{
                "anchor": "start",
-               "fontSize": 64,
-               "fontWeight": 600,
+               "fontSize": 28,
+               "fontWeight": 400,
                "font": font,
                "offset": 20,
            },
